@@ -1,4 +1,4 @@
-# Project Title
+# Game "Lemonade Stand"
 
 A text-based game utilizing Python essentials:
 
