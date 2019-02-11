@@ -1,6 +1,10 @@
 # Project Title
 
-One Paragraph of project description goes here
+A text-based game utilizing Python essentials:
+Strings and string manipulation
+User-defined functions and variables
+Conditional statements (if/elif/else)
+Loops
 
 ## Getting Started
 
