@@ -7,6 +7,8 @@ A text-based game utilizing Python essentials:
 * Conditional statements (if/elif/else)
 * Loops
 
+
+![alt text](https://raw.githubusercontent.com/chapliza/Lemonade_Stand/1 copy.jpg)
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
