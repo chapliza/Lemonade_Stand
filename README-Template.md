@@ -1,9 +1,13 @@
 # Project Title
 
 A text-based game utilizing Python essentials:
+
 Strings and string manipulation
+
 User-defined functions and variables
+
 Conditional statements (if/elif/else)
+
 Loops
 
 ## Getting Started
