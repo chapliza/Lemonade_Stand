@@ -14,13 +14,7 @@ A text-based game utilizing Python essentials:
 Game example is here! 
 https://trinket.io/python3/68b1b4f38e
 
-### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
 
 
 
