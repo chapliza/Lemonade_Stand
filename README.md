@@ -11,8 +11,7 @@ A text-based game utilizing Python essentials:
 ![alt text](https://github.com/chapliza/Lemonade_Stand/blob/master/1.jpg)
 ## Getting Started
 
-Game example is here! 
-https://trinket.io/python3/68b1b4f38e
+Game example is [here](https://trinket.io/python3/68b1b4f38e)! Try it!
 
 
 
